@@ -1,2 +1,2 @@
 # Apps
-Python things
+Apps and tools I am making following python guides 
